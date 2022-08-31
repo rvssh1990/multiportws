@@ -53,7 +53,7 @@ systemctl restart wg-quick@wg0
 
 ## Info :
 
- ## Contact owner on Telegram @rvsshVPN <a href="https://t.me/rvsshmy" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a> for reg ip
+ ## Contact owner on Telegram @rvsshmy <a href="https://t.me/rvsshmy" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a> for reg ip
 
 
 ## Description :
@@ -108,7 +108,7 @@ systemctl restart wg-quick@wg0
 
 [Group rvsshVPN](https://t.me/rvsshmy)
 
-[Channel rvsshVPN](https://t.me/rvsshmy)
+[Channel rvsshVPN](https://t.me/rvssh36)
 
 ## Credit :
 

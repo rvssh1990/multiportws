@@ -104,19 +104,17 @@ systemctl restart wg-quick@wg0
 
 ## Telegram
 
-[rvsshVPN](https://t.me/rvsshmy)
+[Onwer rvsshmy](https://t.me/rvsshmy)
 
-[Group rvsshVPN](https://t.me/rvsshmy)
+[Channel Network rvsshmy](https://t.me/fs_network)
 
-[Channel rvsshVPN](https://t.me/rvssh36)
+[Channel rvsshmy](https://t.me/rvsshmychannel)
 
 ## Credit :
 
-*   rvsshVPN
+*   rvsshmy
 
-*   Project X
-
-*   V2ray
+*   Allah SWT
 
 <p align="center">
   <a><img src="https://img.shields.io/badge/Copyright%20©-rvsshVPN%20AutoScriptVPN%202022.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">

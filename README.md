@@ -1,7 +1,7 @@
-# Script rvsshVPN Websocket
+# Script rvsshmy Websocket
 # add-on bug kuning merah di websocket
 
- <h2 align="center">AutoScript VPN By rvsshVPN <img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h2>
+ <h2 align="center">AutoScript VPN By rvsshmy <img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h2>
 
 
 <h2 align="center"> Supported Linux Distribution</h2>
@@ -117,6 +117,6 @@ systemctl restart wg-quick@wg0
 *   Allah SWT
 
 <p align="center">
-  <a><img src="https://img.shields.io/badge/Copyright%20©-rvsshVPN%20AutoScriptVPN%202022.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
+  <a><img src="https://img.shields.io/badge/Copyright%20©-rvsshmy%20AutoScriptVPN%202022.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
     </p>
    </p>
